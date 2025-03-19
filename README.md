@@ -16,11 +16,7 @@ A powerful Retrieval-Augmented Generation (RAG) system that can process PDF docu
 ## Demo
 
 You can watch the demonstration video below showing how to use the system:
-
-<video width="100%" controls>
-  <source src="public/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](./public/demo.mp4)
 
 ## Installation
 
